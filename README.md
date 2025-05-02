@@ -1,2 +1,2 @@
 # TrackWise
-An Expense Tracker thart easily track  daily expenses and manage budgets with simplicity and clarity.
+An Expense Tracker that easily track  daily expenses and manage budgets with simplicity and clarity.
